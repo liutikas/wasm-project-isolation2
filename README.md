@@ -6,4 +6,4 @@
 Pass with no warnings
 
 ## Actual
-Various failures, see [configuration-cache-report.html](.configuration-cache-report.html) that is checked in.
+Various failures, see [configuration-cache-report.html](./configuration-cache-report.html) that is checked in.
